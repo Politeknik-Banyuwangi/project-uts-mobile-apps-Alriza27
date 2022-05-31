@@ -21,7 +21,17 @@ class Calls extends StatelessWidget {
             ),
 
             //Masukkan Codingan disini jaringan lainnya
-            CardsCalls('Ridho', 'hari ini 19.00', 'https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
           ],
         ),
       ),
