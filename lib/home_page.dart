@@ -103,8 +103,8 @@ class _CameraState extends State<Camera> {
     return const Scaffold(
       body: Center(
         child: Text(
-          "Your Name + Nim",
-          style: TextStyle(color: Colors.teal, fontWeight: FontWeight.bold, fontSize: 30),
+          "Alrizafirdaus_362055401116",
+          style: TextStyle(color: Colors.teal, fontWeight: FontWeight.bold, fontSize: 25),
         ),
       ),
     );

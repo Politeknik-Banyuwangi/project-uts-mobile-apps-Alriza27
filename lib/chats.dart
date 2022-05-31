@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'widget/CardChats.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
@@ -17,6 +18,16 @@ class Chats extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
+            CardChats('Enzy', '17.30', 'jangan lupa solatnya', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg'),
           ],
         ),
       ),

@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'widget/CardCalls.dart';
 
 class Calls extends StatelessWidget {
   const Calls({Key? key}) : super(key: key);
@@ -19,13 +20,18 @@ class Calls extends StatelessWidget {
               height: 10,
             ),
 
-            // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
+            //Masukkan Codingan disini jaringan lainnya
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
+            CardsCalls('Enzy', 'hari ini 22.35', 'https://i.postimg.cc/JnqyFbSX/anya-geraldin.jpg', 'vidio call', 'accept'),
           ],
         ),
       ),
